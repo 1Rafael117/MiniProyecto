@@ -1,0 +1,32 @@
+.note
+{
+    text-align: center;
+    height: 80px;
+    color: #fff;
+    font-weight: bold;
+    line-height: 80px;
+    font-size: x-large;
+}
+.form-content
+{
+    padding: 5%;
+    border: 1px solid #ced4da;
+    margin-bottom: 2%;
+}
+.form-control{
+    border-radius:1.5rem;
+}
+.btnSubmit
+{
+    border:none;
+    border-radius:1.5rem;
+    padding: 1%;
+    width: 20%;
+    cursor: pointer;
+    background: #0062cc;
+    color: #fff;
+}
+body {
+    background: rgb(65,1,1);
+    background: radial-gradient(circle, rgba(65,1,1,1) 0%, rgba(187,43,43,1) 51%, rgba(255,132,0,1) 100%)
+}
